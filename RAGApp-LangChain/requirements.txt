@@ -1,0 +1,11 @@
+openai>=2,<3
+pinecone>=10,<11
+tiktoken>=0.12,<1
+python-dotenv>=1,<2
+langchain>=1,<2
+langchain-openai>=1,<2
+streamlit>=1.50,<2
+# Use established Python 3.13-compatible wheels for Windows desktop installs.
+pandas>=2.2.3,<3
+pyarrow==19.0.1
+tzdata>=2025.2
