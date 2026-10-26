@@ -1,0 +1,6 @@
+langgraph>=1.0,<2
+langgraph-checkpoint-sqlite>=2.0
+langchain-openai>=1.0
+streamlit>=1.39
+python-dotenv>=1.0
+pytest>=8
